@@ -29,22 +29,31 @@ I am __Viola Tan__, an inspiring Data Scientist.
 <!-- EXPERIENCE Section Starts -->
 ### EXPERIENCE
 <!-- Add your details -->
-##### BOSTON CONSULTING GROUP
-SENIOR ANALYST<br>
-June-2019 to Present: 1 year 10 Months
+##### Family
+Coach and Teacher<br>
+2010 to 2020: 10 years
 
-ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
-UNIT: BCG GAMMA
+ROLE: Coach, Teacher, Nurse, Chef, Mentor
 
-Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
+Expert of multi-tasking and listening.
 
+##### Republic Polytechnic
+Academic Staff<br>
+2007 to 2010: 3 years
+
+ROLE: Facilitator, Trainer, Curriculum Planner, Lead of Academic Staff Training
+
+Teaching classes, training staff, designing lessons and reviewing changes
 <!-- EXPERIENCE Section Ends -->
 
 <!-- EDUCATION Section Starts -->
 ### EDUCATION
 <!-- Add your details -->
-##### LNCT Bhopal
-Engineering Graduate 2010-14, First Division
+##### The George Washington University
+Masters of Arts in Education and Human Development 2009-11
+
+##### National University of Singapore
+Bachelor of Computer Engineering
 
 <!-- EDUCATION Section Ends -->
 
