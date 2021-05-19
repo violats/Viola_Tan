@@ -3,7 +3,7 @@
 
 <!-- Add your details -->
 ✉️: violatss@gmail.com
-&nbsp;&nbsp; 📲 +91-XXXXXXXXXX
+&nbsp;&nbsp; 📲 +65-XXXXXXXXXX
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/violat/) 
 <!-- CONTACT Section Ends -->
 
