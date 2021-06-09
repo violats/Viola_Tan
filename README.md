@@ -55,7 +55,7 @@ Teaching classes, training staff, designing lessons and reviewing changes
 Certificate of Business and Data Analytics
 
 ##### The George Washington University
-Masters of Arts in Education and Human Development 2009-11
+Masters of Arts in Education and Human Development
 
 ##### National University of Singapore
 Bachelor of Computer Engineering (Hons)
