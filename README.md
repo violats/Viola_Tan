@@ -51,6 +51,9 @@ Teaching classes, training staff, designing lessons and reviewing changes
 <!-- EDUCATION Section Starts -->
 ### EDUCATION
 <!-- Add your details -->
+##### Digital Boston Consulting Group (BCG) Academy
+Certificate of Business and Data Analytics
+
 ##### The George Washington University
 Masters of Arts in Education and Human Development 2009-11
 
