@@ -19,7 +19,7 @@ I am __Viola Tan__, an inspiring Business Analyst and Data Scientist.
 
 
 <!-- Add link to the sections -->
-<!--[Experience](#experience) <br> -->
+<!-- [Experience](#experience) <br> -->
 [Education](#education) <br>
 [Projects](#projects) <br>
 <!-- [Featured](#featured) <br>  --> 
@@ -27,10 +27,10 @@ I am __Viola Tan__, an inspiring Business Analyst and Data Scientist.
 <!-- ABOUT Section Ends -->
 
 <!-- EXPERIENCE Section Starts -->
-<!-- ### EXPERIENCE
+<!-- ### EXPERIENCE -->
 <!-- Add your details -->
-##### Family
-Coach and Teacher<br>
+<!-- ##### Family -->
+<!-- Coach and Teacher<br>
 2010 to 2020: 10 years
 
 ROLE: Coach, Teacher, Nurse, Chef, Mentor
