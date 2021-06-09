@@ -58,7 +58,7 @@ Certificate of Business and Data Analytics
 Masters of Arts in Education and Human Development 2009-11
 
 ##### National University of Singapore
-Bachelor of Computer Engineering
+Bachelor of Computer Engineering (Hons)
 
 <!-- EDUCATION Section Ends -->
 
