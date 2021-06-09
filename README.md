@@ -63,7 +63,7 @@ Bachelor of Computer Engineering
 <!-- EDUCATION Section Ends -->
 
 <!-- PROJECTS Section Starts -->
-### PROJECTS
+### PROJECTS -> ongoing Updates
 <!-- Add your details -->
 
 [Classification based projects](#classification-based-projects) <br>
