@@ -11,23 +11,23 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/violats/Viola_Tan/main/images/presentation-Viola.jpg = 100x20)
+![alt text](https://raw.githubusercontent.com/violats/Viola_Tan/main/images/presentation-Viola.jpg)
 
 <!-- Add your details -->
 
-I am __Viola Tan__, an inspiring Data Scientist.
+I am __Viola Tan__, an inspiring Business Analyst and Data Scientist.
 
 
 <!-- Add link to the sections -->
-[Experience](#experience) <br>
+<!--[Experience](#experience) <br> -->
 [Education](#education) <br>
 [Projects](#projects) <br>
-[Featured](#featured) <br> 
+<!-- [Featured](#featured) <br>  --> 
 
 <!-- ABOUT Section Ends -->
 
 <!-- EXPERIENCE Section Starts -->
-### EXPERIENCE
+<!-- ### EXPERIENCE
 <!-- Add your details -->
 ##### Family
 Coach and Teacher<br>
@@ -44,7 +44,9 @@ Academic Staff<br>
 ROLE: Facilitator, Trainer, Curriculum Planner, Lead of Academic Staff Training
 
 Teaching classes, training staff, designing lessons and reviewing changes
+-->
 <!-- EXPERIENCE Section Ends -->
+
 
 <!-- EDUCATION Section Starts -->
 ### EDUCATION
