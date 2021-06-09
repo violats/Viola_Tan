@@ -2,8 +2,8 @@
 ### CONTACT
 
 <!-- Add your details -->
-✉️: violatss@gmail.com
-&nbsp;&nbsp; 📲 +65-XXXXXXXXXX
+<!-- ✉️: violatss@gmail.com
+&nbsp;&nbsp; 📲 +65-XXXXXXXXXX -->
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/violat/) 
 <!-- CONTACT Section Ends -->
 
@@ -11,7 +11,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/violats/Viola_Tan/main/images/Group%20Reflection.jpg)
+![alt text](https://raw.githubusercontent.com/violats/Viola_Tan/main/images/presentation-Viola.jpg)
 
 <!-- Add your details -->
 
