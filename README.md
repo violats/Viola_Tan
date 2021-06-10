@@ -49,16 +49,16 @@ Teaching classes, training staff, designing lessons and reviewing changes
 
 
 <!-- EDUCATION Section Starts -->
-### EDUCATION
+<!-- ### EDUCATION  -->
 <!-- Add your details -->
-##### Digital Boston Consulting Group (BCG) Academy
+<!--##### Digital Boston Consulting Group (BCG) Academy
 Certificate of Business and Data Analytics
 
 ##### The George Washington University
 Masters of Arts in Education and Human Development
 
 ##### National University of Singapore
-Bachelor of Computer Engineering (Hons)
+Bachelor of Computer Engineering (Hons) -->
 
 <!-- EDUCATION Section Ends -->
 
@@ -66,7 +66,7 @@ Bachelor of Computer Engineering (Hons)
 ### PROJECTS -> ongoing Updates
 <!-- Add your details -->
 
-[Classification based projects](#classification-based-projects) <br>
+[Human-Centred Design project: Hawker Centre App](#Hawker Centre App) <br>
 [Regression based projects](#regression-based-projects) <br>
 
 <!-- Add your details -->
@@ -78,12 +78,12 @@ In machine learning, classification refers to a predictive modeling problem wher
 
 [Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Classification)
 
-#### Regression based projects
+<!--- #### Regression based projects
 ![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Regression.jpg)
 
 Regression is a supervised learning technique which helps in finding the correlation between variables and enables us to predict the continuous output variable based on the one or more predictor variables.
 
-[Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Regression)
+[Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Regression) --->
 
 <!-- PROJECTS Section Ends -->
 
