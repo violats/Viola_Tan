@@ -15,12 +15,12 @@
 
 <!-- Add your details -->
 
-I am __Viola Tan__, an inspiring Business Analyst and Data Scientist.
+I am __Viola Tan__, a Curriculum Designer and Trainer, an inspiring Business Analyst and Data Scientist.
 
 
 <!-- Add link to the sections -->
 <!-- [Experience](#experience) <br> -->
-[Education](#education) <br>
+<!--[Education](#education) <br> --> 
 [Projects](#projects) <br>
 <!-- [Featured](#featured) <br>  --> 
 
