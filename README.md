@@ -67,14 +67,15 @@ Bachelor of Computer Engineering (Hons) -->
 <!-- Add your details -->
 
 [Human-Centred Design project: Hawker Centre App](#Hawker Centre App) <br>
-[Regression based projects](#regression-based-projects) <br>
+<!-- [Regression based projects](#regression-based-projects) <br> -->
 
 <!-- Add your details -->
 
 #### Classification based projects
-![alt text](https://raw.githubusercontent.com/violats/Viola_Tan/main/images/HCDDesign-HawkerCentreApp.wmv)
+<video src="https://raw.githubusercontent.com/violats/Viola_Tan/main/images/HCDDesign-HawkerCentreApp.wmv" width="320" height="200" controls preload></video>
+<!--- ![alt text](https://raw.githubusercontent.com/violats/Viola_Tan/main/images/HCDDesign-HawkerCentreApp.wmv) --->
 
-In machine learning, classification refers to a predictive modeling problem where a class label is predicted for a given example of input data.
+<!--- In machine learning, classification refers to a predictive modeling problem where a class label is predicted for a given example of input data. --->
 
 [Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Classification)
 
