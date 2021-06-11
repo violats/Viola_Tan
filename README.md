@@ -11,7 +11,8 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/violats/Viola_Tan/main/images/presentation-Viola.jpg| width=100)
+<!--![alt text](https://raw.githubusercontent.com/violats/Viola_Tan/main/images/presentation-Viola.jpg| width=100)-->
+<img src="https://raw.githubusercontent.com/violats/Viola_Tan/main/images/presentation-Viola.jpg" width="100"/>
 
 <!-- Add your details -->
 
