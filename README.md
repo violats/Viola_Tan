@@ -73,19 +73,19 @@ Bachelor of Computer Engineering (Hons) -->
 
 #### Hawker Centre App
 
-[![Alternate Text]({https://raw.githubusercontent.com/violats/Viola_Tan/main/images/presentation-Viola.jpg})]({https://drive.google.com/file/d/1xbm5xsVVvDf3cg-A0GCb4KE1OOwqnD5V/view?usp=sharing} "Presentation relating Insights to Emotions")
+[![Hawker Centre App Presentation relating Insights to Emotions](https://raw.githubusercontent.com/violats/Viola_Tan/main/images/presentation-Viola.jpg)](https://drive.google.com/file/d/1xbm5xsVVvDf3cg-A0GCb4KE1OOwqnD5V/view?usp=sharing "Presentation relating Insights to Emotions")
 <!--- ![alt text](https://raw.githubusercontent.com/violats/Viola_Tan/main/images/HCDDesign-HawkerCentreApp.wmv) --->
 
 <!--- In machine learning, classification refers to a predictive modeling problem where a class label is predicted for a given example of input data. --->
 
-[Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Classification)
+<!--- [Click here to view codebase](URL LInk) --->
 
 <!--- #### Regression based projects
 ![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Regression.jpg)
 
 Regression is a supervised learning technique which helps in finding the correlation between variables and enables us to predict the continuous output variable based on the one or more predictor variables.
 
-[Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Regression) --->
+[Click here to view codebase](URL Link) --->
 
 <!-- PROJECTS Section Ends -->
 
