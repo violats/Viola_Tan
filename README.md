@@ -63,7 +63,7 @@ Bachelor of Computer Engineering (Hons) -->
 <!-- EDUCATION Section Ends -->
 
 <!-- PROJECTS Section Starts -->
-### PROJECTS -> ongoing Updates
+### Skills Portfolio -> ongoing Updates
 <!-- Add your details -->
 
 [Human-Centred Design project: Hawker Centre App](#Hawker Centre App) <br>
@@ -71,7 +71,9 @@ Bachelor of Computer Engineering (Hons) -->
 
 <!-- Add your details -->
 
-#### Classification based projects
+#### Hawker Centre App
+
+https://raw.githubusercontent.com/violats/Viola_Tan/main/images/HCDDesign-HawkerCentreApp.wmv
 <video src="https://raw.githubusercontent.com/violats/Viola_Tan/main/images/HCDDesign-HawkerCentreApp.wmv" width="320" height="200" controls preload></video>
 <!--- ![alt text](https://raw.githubusercontent.com/violats/Viola_Tan/main/images/HCDDesign-HawkerCentreApp.wmv) --->
 
