@@ -74,8 +74,7 @@ Bachelor of Computer Engineering (Hons) -->
 
 #### Hawker Centre App
 
-
-[!Click on image to hear how I relate Insights to Emotions]<img src="https://raw.githubusercontent.com/violats/Viola_Tan/main/images/HawkerCentreAppTitlePage.png" width="300"/>(https://drive.google.com/file/d/1xbm5xsVVvDf3cg-A0GCb4KE1OOwqnD5V/view?usp=sharing "Presentation relating Insights to Emotions")
+[!Click on image to hear how I relate Insights to Emotions]<a href="https://drive.google.com/file/d/1xbm5xsVVvDf3cg-A0GCb4KE1OOwqnD5V/view?usp=sharing"><img src="https://raw.githubusercontent.com/violats/Viola_Tan/main/images/HawkerCentreAppTitlePage.png" width="300"/></a>
 <!--- ![alt text](https://raw.githubusercontent.com/violats/Viola_Tan/main/images/HCDDesign-HawkerCentreApp.wmv) --->
 
 <!--- In machine learning, classification refers to a predictive modeling problem where a class label is predicted for a given example of input data. --->
