@@ -74,11 +74,16 @@ Bachelor of Computer Engineering (Hons) -->
 
 Our team initially brought more publicly available research about Apple and divided out the resources to be read and summarised for the whole team's understanding.  This achieved the productive purpose of the team having a baseline understanding of its market, its competitors and the different niches its products fulfill.  
  
-What attracted attention was the disparity of the data.  While the excel sheet data (end 2020) showed China's revenue dropping from 2018:
+What attracted attention was the disparity of the data.  While the excel sheet data (end 2020) showed China's revenue dropping from 2018 to 2020:
 <img src="https://raw.githubusercontent.com/violats/Viola_Tan/main/images/AppleRegionalRevenue.png" width="350"/>
 <br>(Excel chart courtesy of teammate Soh Kiam Boon)
  
- <b>1st quarter 2021 was a trend buck because China's revenue rose 57% in 1st quarter 2021.</b> (source: https://www.investopedia.com/how-apple-makes-money-4798689) 
+ <b>1st quarter 2021 was a trend buck because China's revenue rose 57%.</b> (source: https://www.investopedia.com/how-apple-makes-money-4798689) 
+ 
+ On further investigation, we realised the cause of buck trend: China's iPads' demand due to home-based learning, which could only be met much later due to the disruption in the supply chain. (https://asia.nikkei.com/Spotlight/Coronavirus/China-demand-for-e-learning-bites-into-Apple-s-iPad-supply)
+ 
+ 
+
 
 
 #### Connect Insight with Emotion/Values
