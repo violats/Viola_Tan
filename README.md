@@ -69,6 +69,8 @@ Bachelor of Computer Engineering (Hons) -->
 ### SKILLS PORTFOLIO -> ongoing Updates
 <!-- Add your details -->
 #### Problem Definition Skills
+<i>(BCG-Rise's Business Essentials Projects - submitted:March 2021)</i>
+
 <b>Task:</b> Advise CEO of Apple Inc on Business Strategy (submitted: March 2021.)  <i>(Note: Apple Inc is not a project sponsor.)</i>
  <br><br><b>Resources:</b> Excel spreadsheets of publicly available data (end 2020) of its revenue figures, its sales volume for physical products and its export volume.
 
