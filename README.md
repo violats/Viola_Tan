@@ -78,7 +78,7 @@ Potential employers and recruiters, if you would like an audio copy of a 30-min 
 
 [Human-Centred Design project: Hawker Centre App](#Hawker) <br>
 
-<! -- #### Business Mandarin
+<!-- #### Business Mandarin
 Potential employers and recruiters, if you would like an audio copy of a 30-min User's Needs Interview I conduct, available in both English and Mandarin, please contact me at the LinkedIn link above and I will be happy to provide. -->
 <!--- [Multi-Attraction Hospitality Destination App - Business Mandarin](#hospitality) <br> --->
 
