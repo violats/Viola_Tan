@@ -84,7 +84,7 @@ Perseverence was called on to dig deeper into the information. Excel sheets' dat
  
  On further investigation, we realised the cause of buck trend: China's iPad demand due to home-based learning leading to shortage - which could only be met much later due to the global disruption in the supply chain. (https://asia.nikkei.com/Spotlight/Coronavirus/China-demand-for-e-learning-bites-into-Apple-s-iPad-supply)
  
- This led to our Situation-Complication-Question with its significant increased revenue from China driven by iPad demand in 2020 contrasted sharply against its then small market share of mobile phones:
+ This led to our Situation-Complication-Question with its <b>significant increased revenue from China</b> driven by <i>iPad demand</i> in 2020 contrasted sharply against its then <i>small market share of mobile phones:</i>
  <br><img src="https://raw.githubusercontent.com/violats/Viola_Tan/main/images/AppleSCQProblemDefinition.png" width="350"/>
  
  At this point it would have been tempting to go along with our research material/direction of e-learning, but instead more perseverence was called on to review the situation space with BCG tools.
