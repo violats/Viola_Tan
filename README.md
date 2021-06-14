@@ -89,7 +89,7 @@ Perseverence was called on to dig deeper into the information before Excel sheet
  
  At this point it would have been tempting to go along with our research material/direction of e-learning, but instead more perseverence was called on to review the situation space with BCG tools.
  
- We deconstrained the SCQ questions to create new questions few people thought about.  After some discussion we decided to analyse the question of <b>"How a user can interract with his/her environment with Apple devices"</b> using a <i>logic tree.</i>
+ We <b>deconstrained</b> the SCQ questions to create new questions few people thought about.  After some discussion we decided to analyse the question of <b>"How a user can interract with his/her environment with Apple devices"</b> using a <i>logic tree.</i>
  
 
 
