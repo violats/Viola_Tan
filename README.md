@@ -69,7 +69,7 @@ Bachelor of Computer Engineering (Hons) -->
 ### SKILLS PORTFOLIO -> ongoing Updates
 <!-- Add your details -->
 
-#### Users' Needs Interview
+#### Users' Needs Interview and Business Mandarin
 Potential employers and recruiters, if you would like an audio copy of a 30-min User's Needs Interview I conduct, available in both English and Mandarin, please contact me at the LinkedIn link above and I will be happy to provide.
 
 #### Connect Data with Emotion
@@ -77,6 +77,12 @@ Potential employers and recruiters, if you would like an audio copy of a 30-min 
 <!--- [Hawker Centre App](#hawker) <br> --->
 
 [Human-Centred Design project: Hawker Centre App](#Hawker) <br>
+
+<! -- #### Business Mandarin
+Potential employers and recruiters, if you would like an audio copy of a 30-min User's Needs Interview I conduct, available in both English and Mandarin, please contact me at the LinkedIn link above and I will be happy to provide. -->
+<!--- [Multi-Attraction Hospitality Destination App - Business Mandarin](#hospitality) <br> --->
+
+<!-- [Hackathon project: Multi-Attraction Hospitality Destination App](#Hospitality) <br> -->
 <!-- [Regression based projects](#regression-based-projects) <br> -->
 
 <!-- Add your details -->
