@@ -97,9 +97,9 @@ Perseverence was called on to dig deeper into the information. Excel sheets' dat
 <!--- [Hawker Centre App](#hawker) <br> --->
 
 <!-- [Human-Centred Design project: Hawker Centre App](#Hawker) <br> --->
-##### in Hawker Centre App (Submitted: April 2021)
+<b>##### in Hawker Centre App (Submitted: April 2021)</b>
 
- [Feel free to jump to time 1:40 of this video link to see how I relate Emotions to users' Insights of their experiences with Hawker Centres](https://drive.google.com/file/d/1xbm5xsVVvDf3cg-A0GCb4KE1OOwqnD5V/view)
+ [Feel free to jump to time 1:40 of this video link to see how I relate Emotions/values to users' Insights.](https://drive.google.com/file/d/1xbm5xsVVvDf3cg-A0GCb4KE1OOwqnD5V/view)
 
 #### Users' Needs Interview and Business Mandarin
 Potential employers and recruiters, if you would like an audio copy of a 30-min User's Needs Interview I conduct, available in both English and Mandarin, please contact me at the LinkedIn link above and I will be happy to provide.
