@@ -74,7 +74,7 @@ Bachelor of Computer Engineering (Hons) -->
 <b>Task:</b> Advise CEO of Apple Inc on Business Strategy (submitted: March 2021.)  <i>(Note: Apple Inc is not a project sponsor.)</i>
  <br><br><b>Resources:</b> Excel spreadsheets of publicly available data (end 2020) of its revenue figures, its sales volume for physical products and its export volume.
 
-Our team initially intensively researched Apple's publicly available information.  Although it achieved the productive purpose of the team having a baseline understanding of its market, its competitors and the different niches its products fulfill, it also held the temptation to go along the research direction of SWOT Analysis of Apple and its competitors.
+Our team initially intensively researched Apple's publicly available information.  Although it achieved the productive purpose of the team having a baseline understanding of its market, it also held the temptation to go along the research direction of SWOT Analysis of Apple and its competitors.
  
 Perseverence was called on to dig deeper into the information. Excel sheets' data (end 2020) disparity of China's revenue dropping from 2018 to 2020...
 <br><img src="https://raw.githubusercontent.com/violats/Viola_Tan/main/images/AppleRegionalRevenue.png" width="350"/>
