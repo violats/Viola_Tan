@@ -76,7 +76,7 @@ Potential employers and recruiters, if you would like an audio copy of a 30-min 
 
 <!--- [Hawker Centre App](#hawker) <br> --->
 
-[Human-Centred Design project: Hawker Centre App](#Hawker) <br>
+<!-- [Human-Centred Design project: Hawker Centre App](#Hawker) <br> --->
 
 <!-- #### Business Mandarin
 Potential employers and recruiters, if you would like an audio copy of a 30-min User's Needs Interview I conduct, available in both English and Mandarin, please contact me at the LinkedIn contact above and I will be happy to provide. -->
@@ -89,7 +89,6 @@ Potential employers and recruiters, if you would like an audio copy of a 30-min 
 
 ##### Hawker Centre App (Submitted: April 2021)
 
-<!--- [!Click on image to hear how I relate Insights to Emotions]<iframe src="https://drive.google.com/file/d/1xbm5xsVVvDf3cg-A0GCb4KE1OOwqnD5V/preview" width="640" height="480"></iframe> --->
  [Feel free to jump to time 1:40 of this video link to see how I relate Emotions to users' Insights of their experiences with Hawker Centres](https://drive.google.com/file/d/1xbm5xsVVvDf3cg-A0GCb4KE1OOwqnD5V/view)
 
 <!--- In machine learning, classification refers to a predictive modeling problem where a class label is predicted for a given example of input data. --->
