@@ -68,15 +68,26 @@ Bachelor of Computer Engineering (Hons) -->
 <!-- PROJECTS Section Starts -->
 ### SKILLS PORTFOLIO -> ongoing Updates
 <!-- Add your details -->
+#### Problem Definition Skills
+Our class was given an imaginary scenario of advising the CEO of Apple Inc on its business strategy going forward.  <i>Note the imaginary scenario.  Apple Inc. was not a project sponsor.)  We were provided with excel spreadsheets of publicly available data about its revenue figures, its sales volume for physical products and its export volume.
 
-#### Users' Needs Interview and Business Mandarin
-Potential employers and recruiters, if you would like an audio copy of a 30-min User's Needs Interview I conduct, available in both English and Mandarin, please contact me at the LinkedIn link above and I will be happy to provide.
+Our team initially brought together publicly available research about Apple and divided out the resources to be read and summarised for the whole team's understanding.  This achieved the productive purpose of the team having a baseline understanding of its market, its competitors and the different niches its products fulfill.  However, it also brought about the temptation to move our solution towards our research direction of SWOT analysis of competitors when we should be <b>focusing our energies towards business impact.</b>
 
-#### Connect Data with Emotion
+What attracted attention was the disparity of the data.  While the excel sheet data (end 2020) showed China's revenue dropping from 2018:
+ 
+
+
+#### Connect Insight with Emotion/Values
 
 <!--- [Hawker Centre App](#hawker) <br> --->
 
 <!-- [Human-Centred Design project: Hawker Centre App](#Hawker) <br> --->
+##### in Hawker Centre App (Submitted: April 2021)
+
+ [Feel free to jump to time 1:40 of this video link to see how I relate Emotions to users' Insights of their experiences with Hawker Centres](https://drive.google.com/file/d/1xbm5xsVVvDf3cg-A0GCb4KE1OOwqnD5V/view)
+
+#### Users' Needs Interview and Business Mandarin
+Potential employers and recruiters, if you would like an audio copy of a 30-min User's Needs Interview I conduct, available in both English and Mandarin, please contact me at the LinkedIn link above and I will be happy to provide.
 
 <!-- #### Business Mandarin
 Potential employers and recruiters, if you would like an audio copy of a 30-min User's Needs Interview I conduct, available in both English and Mandarin, please contact me at the LinkedIn contact above and I will be happy to provide. -->
@@ -87,16 +98,12 @@ Potential employers and recruiters, if you would like an audio copy of a 30-min 
 
 <!-- Add your details -->
 
-##### Hawker Centre App (Submitted: April 2021)
-
- [Feel free to jump to time 1:40 of this video link to see how I relate Emotions to users' Insights of their experiences with Hawker Centres](https://drive.google.com/file/d/1xbm5xsVVvDf3cg-A0GCb4KE1OOwqnD5V/view)
-
 <!--- In machine learning, classification refers to a predictive modeling problem where a class label is predicted for a given example of input data. --->
 
 <!--- [Click here to view codebase](URL LInk) --->
 
 <!--- #### Regression based projects
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Regression.jpg)
+![alt text](url link)
 
 Regression is a supervised learning technique which helps in finding the correlation between variables and enables us to predict the continuous output variable based on the one or more predictor variables.
 
