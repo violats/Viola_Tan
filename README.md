@@ -76,7 +76,7 @@ Bachelor of Computer Engineering (Hons) -->
 
 Our team initially intensively researched Apple's publicly available information.  Although it achieved the productive purpose of the team having a baseline understanding of its market, it also held the temptation to go along the research direction of SWOT Analysis of Apple and its competitors.
  
-Perseverence was called on to dig deeper into the information. Excel sheets' data (end 2020) disparity of China's revenue dropping from 2018 to 2020...
+Perseverence was called on to dig deeper into the information before Excel sheets' data (end 2020) disparity of China's revenue dropping from 2018 to 2020...
 <br><img src="https://raw.githubusercontent.com/violats/Viola_Tan/main/images/AppleRegionalRevenue.png" width="350"/>
 <br>(Excel chart courtesy of teammate Soh Kiam Boon)
  
