@@ -70,7 +70,7 @@ Bachelor of Computer Engineering (Hons) -->
 <!-- Add your details -->
 
 #### Users' Needs Interview
-Potential employers and recruiters, if you would like an audio copy of a 30-min User's Needs Interview I conduct, please contact me at the LinkedIn link above and I will be happy to provide.
+Potential employers and recruiters, if you would like an audio copy of a 30-min User's Needs Interview I conduct, available in both English and Mandarin, please contact me at the LinkedIn link above and I will be happy to provide.
 
 #### Connect Data with Emotion
 
