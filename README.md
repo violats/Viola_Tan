@@ -1,9 +1,10 @@
 
+## Skills Portfolio
 <!-- CONTACT Section Starts -->
 ### CONTACT
 
 <!-- Add your details -->
-<!-- ✉️: violatss@gmail.com
+<!-- ✉️: (email address could be added here)
 &nbsp;&nbsp; 📲 +65-XXXXXXXXXX -->
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/violat/) 
 <!-- CONTACT Section Ends -->
@@ -17,13 +18,13 @@
 
 <!-- Add your details -->
 
-I am __Viola Tan__, a Curriculum Designer and Trainer, an inspiring Business Analyst and Data Scientist.
+I am __Viola Tan__, a Curriculum Designer and Trainer, and an inspiring Business Analyst.
 
 
 <!-- Add link to the sections -->
 <!-- [Experience](#experience) <br> -->
-<!--[Education](#education) <br> --> 
-[Projects](#projects) <br>
+<!--[Education](#education) <br> -->
+<!--[Skills Portfolio](#skills) <br> --> 
 <!-- [Featured](#featured) <br>  --> 
 
 <!-- ABOUT Section Ends -->
@@ -51,7 +52,7 @@ Teaching classes, training staff, designing lessons and reviewing changes
 
 
 <!-- EDUCATION Section Starts -->
-<!-- ### EDUCATION  -->
+<!-- ### EDUCATION -->
 <!-- Add your details -->
 <!--##### Digital Boston Consulting Group (BCG) Academy
 Certificate of Business and Data Analytics
@@ -65,15 +66,22 @@ Bachelor of Computer Engineering (Hons) -->
 <!-- EDUCATION Section Ends -->
 
 <!-- PROJECTS Section Starts -->
-### Skills Portfolio -> ongoing Updates
+### SKILLS PORTFOLIO -> ongoing Updates
 <!-- Add your details -->
 
-[Human-Centred Design project: Hawker Centre App](#Hawker Centre App) <br>
+#### Users' Needs Interview
+Potential employers and recruiters, if you would like an audio copy of a 30-min User's Needs Interview I conduct, please contact me at the LinkedIn link above and I will be happy to provide.
+
+#### Connect Data with Emotion
+
+<!--- [Hawker Centre App](#hawker) <br> --->
+
+[Human-Centred Design project: Hawker Centre App](#Hawker) <br>
 <!-- [Regression based projects](#regression-based-projects) <br> -->
 
 <!-- Add your details -->
 
-#### Hawker Centre App
+##### Hawker Centre App
 
 <!--- [!Click on image to hear how I relate Insights to Emotions]<iframe src="https://drive.google.com/file/d/1xbm5xsVVvDf3cg-A0GCb4KE1OOwqnD5V/preview" width="640" height="480"></iframe> --->
  [Click here to see the video of how I relate Insights to Emotions](https://drive.google.com/file/d/1xbm5xsVVvDf3cg-A0GCb4KE1OOwqnD5V/view)
