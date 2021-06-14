@@ -69,12 +69,16 @@ Bachelor of Computer Engineering (Hons) -->
 ### SKILLS PORTFOLIO -> ongoing Updates
 <!-- Add your details -->
 #### Problem Definition Skills
-Our class was given an imaginary scenario of advising the CEO of Apple Inc on its business strategy going forward.  <i>Note the imaginary scenario.  Apple Inc. was not a project sponsor.)  We were provided with excel spreadsheets of publicly available data about its revenue figures, its sales volume for physical products and its export volume.
+<b>Task:</b> Advise CEO of Apple Inc on Business Strategy (submitted: March 2021.)  <i>(Note: Apple Inc is not a project sponsor.)</i>
+ <br><br><b>Resources:</b> Excel spreadsheets of publicly available data (end 2020) of its revenue figures, its sales volume for physical products and its export volume.
 
-Our team initially brought together publicly available research about Apple and divided out the resources to be read and summarised for the whole team's understanding.  This achieved the productive purpose of the team having a baseline understanding of its market, its competitors and the different niches its products fulfill.  However, it also brought about the temptation to move our solution towards our research direction of SWOT analysis of competitors when we should be <b>focusing our energies towards business impact.</b>
-
-What attracted attention was the disparity of the data.  While the excel sheet data (end 2020) showed China's revenue dropping from 2018:
+Our team initially brought more publicly available research about Apple and divided out the resources to be read and summarised for the whole team's understanding.  This achieved the productive purpose of the team having a baseline understanding of its market, its competitors and the different niches its products fulfill.  
  
+What attracted attention was the disparity of the data.  While the excel sheet data (end 2020) showed China's revenue dropping from 2018:
+<img src="https://raw.githubusercontent.com/violats/Viola_Tan/main/images/AppleRegionalRevenue.png" width="350"/>
+<br>(Excel chart courtesy of teammate Soh Kiam Boon)
+ 
+ <b>1st quarter 2021 was a trend buck because China's revenue rose 57% in 1st quarter 2021.</b> (source: https://www.investopedia.com/how-apple-makes-money-4798689) 
 
 
 #### Connect Insight with Emotion/Values
