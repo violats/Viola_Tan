@@ -72,17 +72,17 @@ Bachelor of Computer Engineering (Hons) -->
 <b>Task:</b> Advise CEO of Apple Inc on Business Strategy (submitted: March 2021.)  <i>(Note: Apple Inc is not a project sponsor.)</i>
  <br><br><b>Resources:</b> Excel spreadsheets of publicly available data (end 2020) of its revenue figures, its sales volume for physical products and its export volume.
 
-Our team initially intensively researched Apple's publicly available information and divided out the resources to be read and summarised for the whole team's understanding.  This achieved the productive purpose of the team having a baseline understanding of its market, its competitors and the different niches its products fulfill.  However, it also held the temptation to go along the research direction of SWOT Analysis of Apple and its competitors.
+Our team initially intensively researched Apple's publicly available information.  Although it achieved the productive purpose of the team having a baseline understanding of its market, its competitors and the different niches its products fulfill, it also held the temptation to go along the research direction of SWOT Analysis of Apple and its competitors.
  
-Perseverence was called on to dig deeper into the information. This disparity of the data attracted attention.  While the excel sheets' data (end 2020) showed China's revenue dropping from 2018 to 2020:
+Perseverence was called on to dig deeper into the information. Excel sheets' data (end 2020) disparity of China's revenue dropping from 2018 to 2020...
 <br><img src="https://raw.githubusercontent.com/violats/Viola_Tan/main/images/AppleRegionalRevenue.png" width="350"/>
 <br>(Excel chart courtesy of teammate Soh Kiam Boon)
  
- <b>1st quarter 2021 was an anomaly because China's revenue rose 57%.</b> (source: https://www.investopedia.com/how-apple-makes-money-4798689) 
+ <b>against 1st quarter 2021 anomalous revenue rise of 57%</b> called attention. (source: https://www.investopedia.com/how-apple-makes-money-4798689) 
  
  On further investigation, we realised the cause of buck trend: China's iPad demand due to home-based learning leading to shortage - which could only be met much later due to the global disruption in the supply chain. (https://asia.nikkei.com/Spotlight/Coronavirus/China-demand-for-e-learning-bites-into-Apple-s-iPad-supply)
  
- This led to our Situation-Complication-Question with its significant increased revenue from China driven by iPad demand in 2020 contrasted sharply with its then small market share of mobile phones:
+ This led to our Situation-Complication-Question with its significant increased revenue from China driven by iPad demand in 2020 contrasted sharply against its then small market share of mobile phones:
  <br><img src="https://raw.githubusercontent.com/violats/Viola_Tan/main/images/AppleSCQProblemDefinition.png" width="350"/>
  
  At this point it would have been tempting to go along with our research material/direction of e-learning, but instead more perseverence was called on to review the situation space with BCG tools.
