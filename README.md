@@ -75,7 +75,7 @@ Bachelor of Computer Engineering (Hons) -->
  <br><br><b>Resources:</b> Excel spreadsheets of publicly available data (end 2020) of its revenue figures, its sales volume for physical products and its export volume.
 
 #### 1)  <i>Focused on important metrics</i> and not side-tracked by research direction (eg SWOT analysis of Apple and its competitors)
-Perseverence was required to slowly sieve through mountains of information until Excel sheets' data (end 2020) disparity of China's revenue dropping from 2018 to 2020...
+Perseverence was required to slowly sieve through mountains of information until Excel sheets' <b>data (end 2020) disparity</b> of China's revenue dropping from 2018 to 2020...
 <br><img src="https://raw.githubusercontent.com/violats/Viola_Tan/main/images/AppleRegionalRevenue.png" width="350"/>
 <br>(Excel chart courtesy of teammate Soh Kiam Boon)
  
