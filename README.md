@@ -97,7 +97,7 @@ centred on <b>significant increased revenue from China</b> driven by <i>iPad dem
 ### Connect Insight with Emotion/Values
 #### in Problem Definition and Recommendation Business Essential Project above (Submitted: March 2021)
 
-[Feel free to jump to time 1:40 of this video link to see how I relate Emotions/values to users' Insights.](https://drive.google.com/file/d/1xbm5xsVVvDf3cg-A0GCb4KE1OOwqnD5V/view
+[Click here for the video link of how I connected our recommendation of "Health Diagnostics Technology market in China" with Apple's vision, bookended in both the introduction "..reach its vision of making the best product on earth" and conclusion "... and also to leave the world better than when we found it."](https://drive.google.com/drive/folders/1R3pbDvcMSwC8t58sTb9rLx6zD20qnFnu)
 
 <!--- [Hawker Centre App](#hawker) <br> --->
 
