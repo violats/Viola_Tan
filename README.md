@@ -68,13 +68,13 @@ Bachelor of Computer Engineering (Hons) -->
 <!-- PROJECTS Section Starts -->
 ## SKILLS PORTFOLIO -> ongoing Updates
 <!-- Add your details -->
-### Problem Definition Skills
+### 1) Problem Definition Skills
 <i>(BCG-Rise's Business Essentials Projects - submitted: March 2021)</i>
 
 <b>Project Deliverable:</b> Advise CEO of Apple Inc on Business Strategy <i>(Note: Apple Inc is not a project sponsor.)</i>
  <br><br><b>Resources:</b> Excel spreadsheets of publicly available data (end 2020) of its revenue figures, its sales volume for physical products and its export volume.
 
-#### 1)  <i>Focused on important metrics</i> and not side-tracked by research direction (eg SWOT analysis of Apple and its competitors)
+#### a)  <i>Focused on important metrics</i> and not side-tracked by research direction (eg SWOT analysis of Apple and its competitors)
 Perseverence was required to slowly sieve through mountains of information until Excel sheets' (end 2020) <b>data disparity</b> of China's revenue dropping from 2018 to 2020...
 <br><img src="https://raw.githubusercontent.com/violats/Viola_Tan/main/images/AppleRegionalRevenue.png" width="350"/>
 <br>(Excel chart courtesy of teammate Soh Kiam Boon)
@@ -83,18 +83,18 @@ Perseverence was required to slowly sieve through mountains of information until
  
  On further investigation, we realised the cause of this buck trend: China's iPad demand due to home-based learning leading to shortage - which could only be met much later due to the global disruption in the supply chain. (https://asia.nikkei.com/Spotlight/Coronavirus/China-demand-for-e-learning-bites-into-Apple-s-iPad-supply)
  
-#### 2) Situation-Complication-Potential Questions Summary 
+#### b) Situation-Complication-Potential Questions Summary 
 centred on <b>significant increased revenue from China driven by <i>iPad demand</i></b> in 2020 contrasted sharply against its then <i>small market share of mobile phones:</i>
  <br><img src="https://raw.githubusercontent.com/violats/Viola_Tan/main/images/AppleSCQProblemDefinition.png" width="350"/>
  
-#### 3) Persevering focus on applying BCG's suite of problem definition tools rather than quick decision on e-learning as direction.
+#### c) Persevering focus on applying BCG's suite of problem definition tools rather than quick decision on e-learning as direction.
  
  We <b>deconstrained</b> the SCQ questions to create new questions few people thought about.  After some discussion we decided to analyse the question of <b>"How a user can interract with his/her environment with Apple devices"</b> using a <i>logic tree.</i>
  
 
 
 
-### Connect Insight with Emotion/Values Skills
+### 2) Connect Insight with Emotion/Values Skills
 #### in Problem Definition and Recommendation Business Essential Project above (Submitted: March 2021)
 
 Click [here](https://drive.google.com/drive/folders/1R3pbDvcMSwC8t58sTb9rLx6zD20qnFnu) for the video link of how I connected our recommendation of "Health Diagnostics Technology market in China" with Apple's vision, bookended in both the introduction and conclusion.
@@ -106,7 +106,7 @@ Click [here](https://drive.google.com/drive/folders/1R3pbDvcMSwC8t58sTb9rLx6zD20
 
  [Feel free to jump to time 1:40 of this video link](https://drive.google.com/file/d/1xbm5xsVVvDf3cg-A0GCb4KE1OOwqnD5V/view) to see how I relate Emotions/values to users' Insights.
 
-### Users' Needs Interview and Business Mandarin Skills
+### 3) Users' Needs Interview and Business Mandarin Skills
 Potential employers and recruiters, if you would like an audio copy of a 30-min User's Needs Interview I conduct, available in both English and Mandarin, please contact me at the LinkedIn link above and I will be happy to provide.
 
 <!-- ### Business Mandarin
