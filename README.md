@@ -87,7 +87,7 @@ Perseverence was required to slowly sieve through mountains of information until
 centred on <b>significant increased revenue from China</b> driven by <i>iPad demand</i> in 2020 contrasted sharply against its then <i>small market share of mobile phones:</i>
  <br><img src="https://raw.githubusercontent.com/violats/Viola_Tan/main/images/AppleSCQProblemDefinition.png" width="350"/>
  
-#### 3) Persevering focus on applying BCG's suite of problem definition tools rather than deciding on e-learning as direction.
+#### 3) Persevering focus on applying BCG's suite of problem definition tools rather than quick decision on e-learning as direction.
  
  We <b>deconstrained</b> the SCQ questions to create new questions few people thought about.  After some discussion we decided to analyse the question of <b>"How a user can interract with his/her environment with Apple devices"</b> using a <i>logic tree.</i>
  
