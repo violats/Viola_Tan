@@ -97,14 +97,14 @@ centred on <b>significant increased revenue from China</b> driven by <i>iPad dem
 ### Connect Insight with Emotion/Values
 #### in Problem Definition and Recommendation Business Essential Project above (Submitted: March 2021)
 
-[Click here for the video link of how I connected our recommendation of "Health Diagnostics Technology market in China" with Apple's vision, bookended in both the introduction "..reach its vision of making the best product on earth" and conclusion "... and also to leave the world better than when we found it."](https://drive.google.com/drive/folders/1R3pbDvcMSwC8t58sTb9rLx6zD20qnFnu)
+Click [here](https://drive.google.com/drive/folders/1R3pbDvcMSwC8t58sTb9rLx6zD20qnFnu) for the video link of how I connected our recommendation of "Health Diagnostics Technology market in China" with Apple's vision, bookended in both the introduction and conclusion.
 
 <!--- [Hawker Centre App](#hawker) <br> --->
 
 <!-- [Human-Centred Design project: Hawker Centre App](#Hawker) <br> --->
 #### in Human-Centred Design Project (Submitted: April 2021)
 
- [Feel free to jump to time 1:40 of this video link to see how I relate Emotions/values to users' Insights.](https://drive.google.com/file/d/1xbm5xsVVvDf3cg-A0GCb4KE1OOwqnD5V/view)
+ [Feel free to jump to time 1:40 of this video link](https://drive.google.com/file/d/1xbm5xsVVvDf3cg-A0GCb4KE1OOwqnD5V/view) to see how I relate Emotions/values to users' Insights.
 
 ### Users' Needs Interview and Business Mandarin
 Potential employers and recruiters, if you would like an audio copy of a 30-min User's Needs Interview I conduct, available in both English and Mandarin, please contact me at the LinkedIn link above and I will be happy to provide.
