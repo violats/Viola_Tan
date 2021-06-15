@@ -97,7 +97,7 @@ centred on <b>significant increased revenue from China driven by <i>iPad demand<
 ### 2) Storytell Insight with Emotion/Values Skills
 #### in Problem Definition and Recommendation Business Essential Project above (Submitted: March 2021)
 
-Click [here](https://drive.google.com/drive/folders/1R3pbDvcMSwC8t58sTb9rLx6zD20qnFnu) for the video link of how I connected and storytell our recommendation of breaking "into Health Diagnostics Technology market in China" with Apple's vision, bookended in both the introduction and conclusion.
+Click [here](https://drive.google.com/drive/folders/1R3pbDvcMSwC8t58sTb9rLx6zD20qnFnu) for the video link of how I <b>connected and storytell our recommendation with Apple's vision</b>, bookended in both the introduction and conclusion.
 
 <!--- [Hawker Centre App](#hawker) <br> --->
 
