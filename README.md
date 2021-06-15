@@ -95,6 +95,9 @@ centred on <b>significant increased revenue from China</b> driven by <i>iPad dem
 
 
 ### Connect Insight with Emotion/Values
+#### in Problem Definition and Recommendation Business Essential Project above (Submitted: March 2021)
+
+[Feel free to jump to time 1:40 of this video link to see how I relate Emotions/values to users' Insights.](https://drive.google.com/file/d/1xbm5xsVVvDf3cg-A0GCb4KE1OOwqnD5V/view
 
 <!--- [Hawker Centre App](#hawker) <br> --->
 
