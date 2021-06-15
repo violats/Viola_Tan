@@ -1,7 +1,7 @@
 
-## Skills Portfolio
+# Skills Portfolio
 <!-- CONTACT Section Starts -->
-### CONTACT
+## CONTACT
 
 <!-- Add your details -->
 <!-- ✉️: (email address could be added here)
@@ -10,7 +10,7 @@
 <!-- CONTACT Section Ends -->
 
 <!-- ABOUT Section Starts -->
-### ABOUT
+## ABOUT
 <!-- Add link to your picture -->
 
 <!--![alt text](https://raw.githubusercontent.com/violats/Viola_Tan/main/images/presentation-Viola.jpg| width=100)-->
@@ -66,47 +66,47 @@ Bachelor of Computer Engineering (Hons) -->
 <!-- EDUCATION Section Ends -->
 
 <!-- PROJECTS Section Starts -->
-### SKILLS PORTFOLIO -> ongoing Updates
+## SKILLS PORTFOLIO -> ongoing Updates
 <!-- Add your details -->
-#### Problem Definition Skills
-<i>(BCG-Rise's Business Essentials Projects - submitted:March 2021)</i>
+### Problem Definition Skills
+<i>(BCG-Rise's Business Essentials Projects - submitted: March 2021)</i>
 
-<b>Task:</b> Advise CEO of Apple Inc on Business Strategy (submitted: March 2021)  <i>(Note: Apple Inc is not a project sponsor.)</i>
+<b>Project Deliverable:</b> Advise CEO of Apple Inc on Business Strategy <i>(Note: Apple Inc is not a project sponsor.)</i>
  <br><br><b>Resources:</b> Excel spreadsheets of publicly available data (end 2020) of its revenue figures, its sales volume for physical products and its export volume.
 
-Our team initially intensively researched Apple's publicly available information.  Although it achieved the productive purpose of the team having a baseline understanding of its market, it also held the temptation to go along the research direction of SWOT Analysis of Apple and its competitors.
- 
-Perseverence was called on to dig deeper into the information before Excel sheets' data (end 2020) disparity of China's revenue dropping from 2018 to 2020...
+#### 1)  <i>Focused on important metrics</i> and not side-tracked by research direction (eg SWOT analysis of Apple and its competitors)
+Perseverence was required to slowly sieve through mountains of information until Excel sheets' data (end 2020) disparity of China's revenue dropping from 2018 to 2020...
 <br><img src="https://raw.githubusercontent.com/violats/Viola_Tan/main/images/AppleRegionalRevenue.png" width="350"/>
 <br>(Excel chart courtesy of teammate Soh Kiam Boon)
  
  <b>against 1st quarter 2021 anomalous revenue rise of 57%</b> called attention. (source: https://www.investopedia.com/how-apple-makes-money-4798689) 
  
- On further investigation, we realised the cause of buck trend: China's iPad demand due to home-based learning leading to shortage - which could only be met much later due to the global disruption in the supply chain. (https://asia.nikkei.com/Spotlight/Coronavirus/China-demand-for-e-learning-bites-into-Apple-s-iPad-supply)
+ On further investigation, we realised the cause of this buck trend: China's iPad demand due to home-based learning leading to shortage - which could only be met much later due to the global disruption in the supply chain. (https://asia.nikkei.com/Spotlight/Coronavirus/China-demand-for-e-learning-bites-into-Apple-s-iPad-supply)
  
- This led to our Situation-Complication-Question with its <b>significant increased revenue from China</b> driven by <i>iPad demand</i> in 2020 contrasted sharply against its then <i>small market share of mobile phones:</i>
+#### 2) Situation-Complication-Potential Questions Summary 
+centred on <b>significant increased revenue from China</b> driven by <i>iPad demand</i> in 2020 contrasted sharply against its then <i>small market share of mobile phones:</i>
  <br><img src="https://raw.githubusercontent.com/violats/Viola_Tan/main/images/AppleSCQProblemDefinition.png" width="350"/>
  
- At this point it would have been tempting to go along with our research material/direction of e-learning, but instead more perseverence was called on to review the situation space with BCG tools.
+#### 3) Persevering focus on applying BCG's suite of problem definition tools rather than deciding on e-learning as direction.
  
  We <b>deconstrained</b> the SCQ questions to create new questions few people thought about.  After some discussion we decided to analyse the question of <b>"How a user can interract with his/her environment with Apple devices"</b> using a <i>logic tree.</i>
  
 
 
 
-#### Connect Insight with Emotion/Values
+### Connect Insight with Emotion/Values
 
 <!--- [Hawker Centre App](#hawker) <br> --->
 
 <!-- [Human-Centred Design project: Hawker Centre App](#Hawker) <br> --->
-<b>##### in Hawker Centre App (Submitted: April 2021)</b>
+#### in Human-Centred Design Project (Submitted: April 2021)
 
  [Feel free to jump to time 1:40 of this video link to see how I relate Emotions/values to users' Insights.](https://drive.google.com/file/d/1xbm5xsVVvDf3cg-A0GCb4KE1OOwqnD5V/view)
 
-#### Users' Needs Interview and Business Mandarin
+### Users' Needs Interview and Business Mandarin
 Potential employers and recruiters, if you would like an audio copy of a 30-min User's Needs Interview I conduct, available in both English and Mandarin, please contact me at the LinkedIn link above and I will be happy to provide.
 
-<!-- #### Business Mandarin
+<!-- ### Business Mandarin
 Potential employers and recruiters, if you would like an audio copy of a 30-min User's Needs Interview I conduct, available in both English and Mandarin, please contact me at the LinkedIn contact above and I will be happy to provide. -->
 <!--- [Multi-Attraction Hospitality Destination App - Business Mandarin](#hospitality) <br> --->
 
@@ -119,7 +119,7 @@ Potential employers and recruiters, if you would like an audio copy of a 30-min 
 
 <!--- [Click here to view codebase](URL LInk) --->
 
-<!--- #### Regression based projects
+<!--- ### Regression based projects
 ![alt text](url link)
 
 Regression is a supervised learning technique which helps in finding the correlation between variables and enables us to predict the continuous output variable based on the one or more predictor variables.
@@ -129,12 +129,12 @@ Regression is a supervised learning technique which helps in finding the correla
 <!-- PROJECTS Section Ends -->
 
 <!-- FEATURED Section Starts -->
-<!-- ## FEATURED --->
+<!-- # FEATURED --->
 <!-- Add your details -->
-<!-- ##### Certifications
+<!-- #### Certifications
 Machine Learning by Columbia University
 
-##### Achievements
+#### Achievements
 Star performer of the year at Accenture 
 -->
 <!-- FEATURED Section Ends -->
