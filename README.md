@@ -84,7 +84,7 @@ Perseverence was required to slowly sieve through mountains of information until
  On further investigation, we realised the cause of this buck trend: China's iPad demand due to home-based learning leading to shortage - which could only be met much later due to the global disruption in the supply chain. (https://asia.nikkei.com/Spotlight/Coronavirus/China-demand-for-e-learning-bites-into-Apple-s-iPad-supply)
  
 #### 2) Situation-Complication-Potential Questions Summary 
-centred on <b>significant increased revenue from China</b> driven by <i>iPad demand</i> in 2020 contrasted sharply against its then <i>small market share of mobile phones:</i>
+centred on <b>significant increased revenue from China driven by <i>iPad demand</i></b> in 2020 contrasted sharply against its then <i>small market share of mobile phones:</i>
  <br><img src="https://raw.githubusercontent.com/violats/Viola_Tan/main/images/AppleSCQProblemDefinition.png" width="350"/>
  
 #### 3) Persevering focus on applying BCG's suite of problem definition tools rather than quick decision on e-learning as direction.
