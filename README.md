@@ -85,6 +85,8 @@ Perseverence was required to slowly sieve through mountains of information until
  
  On further investigation, the cause of this buck trend: China's iPad demand due to home-based learning leading to shortage - which could only be met much later due to the global disruption in the supply chain. (https://asia.nikkei.com/Spotlight/Coronavirus/China-demand-for-e-learning-bites-into-Apple-s-iPad-supply)
  
+ <b>Within a quarter, Apple's share of revenue from China increased from 10++% to 19%</b>, while its operating income share was 21% of Apple's total operating income.  This leads to....
+ 
 #### b) Situation-Complication-Potential Questions Summary 
 centred on <b>significant increased revenue from China driven by <i>iPad demand</i></b> in 2020 contrasted sharply against its then <i>small market share of mobile phones:</i>
  <br><img src="https://raw.githubusercontent.com/violats/Viola_Tan/main/images/AppleSCQProblemDefinition.png" width="350"/>
@@ -93,7 +95,8 @@ centred on <b>significant increased revenue from China driven by <i>iPad demand<
  
  We <b>de-constrained</b> the SCQ questions to create new questions few people thought about.  After evaluating the questions, we decided to analyse the question of <b>"How a user can interract with his/her environment with Apple devices"</b> using a <i>logic tree.</i>
  
-
+#### d) Logic Tree as a tool to organise Team's collaboration
+<img src="https://raw.githubusercontent.com/violats/Viola_Tan/main/images/presentation-Viola.jpg" width="100"/>
 
 
 ### 2) Storytell Insight with Emotion/Values Skills
