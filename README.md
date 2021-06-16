@@ -74,7 +74,7 @@ Bachelor of Computer Engineering (Hons) -->
 <b>Project Deliverable:</b> Advise CEO of Apple Inc on Business Strategy <i>(Note: Apple Inc is not a project sponsor.)</i>
  <br><br><b>Resources:</b> Excel spreadsheets of publicly available data (end 2020) of its revenue figures, its sales volume for physical products and its export volume.
  
- In essence, given the myriad market Apple is in through its products and services, what should Apple focus on?
+ <b><i>In essence, given the myriad market Apple is in through its products and services, what should Apple focus on?</i></b>
 
 #### a)  <i>Focused on important metrics</i> and not side-tracked by research direction
 Perseverence was required to slowly sieve through mountains of information until Excel sheets' (end 2020) <b>data disparity</b> of China's revenue dropping from 2018 to 2020...
