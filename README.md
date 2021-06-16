@@ -96,7 +96,7 @@ centred on <b>significant increased revenue from China driven by <i>iPad demand<
  We <b>de-constrained</b> the SCQ questions to create new questions few people thought about.  After evaluating the questions, we decided to analyse the question of <b>"How a user can interract with his/her environment with Apple devices"</b> using a <i>logic tree.</i>
  
 #### d) Logic Tree as a tool to organise Team's collaboration
-<img src="https://raw.githubusercontent.com/violats/Viola_Tan/main/images/presentation-Viola.jpg" width="100"/>
+<img src="https://raw.githubusercontent.com/violats/Viola_Tan/main/images/Logic Tree.png" width="350"/>
 
 
 ### 2) Storytell Insight with Emotion/Values Skills
