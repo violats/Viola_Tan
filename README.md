@@ -75,33 +75,37 @@ Bachelor of Computer Engineering (Hons) -->
  <br><br><b>Resources:</b> Excel spreadsheets of publicly available data (end 2020) of its revenue figures, its sales volume for physical products and its export volume.
  
  <b><i>In essence, given the myriad market Apple is in through its products and services, what should Apple focus on?</i></b>
-
+ 
+ Our problem definition process could be defined by these 4 stages:<br><br>
+ [a) Focusing on important metrics (and not mountains of information)](#a))<br>
+ b) Summarising Problem Definition with the Situation-Complication-Potential Questions framework<br>
+ c) Ideating better questions with de-constrain methodology and 5 whys<br>
+ d) Using Logic Tree as a tool to organise team collaboration and evaluate sector with most impact.
+<br><br>
 #### a)  <i>Focused on important metrics</i> and not mountains of information
-Perseverence was required to slowly sieve through mountains of information until Excel sheets' (end 2020) <b>data disparity</b> of China's revenue dropping from 2018 to 2020...
+Despite mountains of data, focus was given to important metrics anomalies: eg Excel sheets' (end 2020) <b>data disparity</b> of China's revenue dropping from 2018 to 2020...
 <br><img src="https://raw.githubusercontent.com/violats/Viola_Tan/main/images/AppleRegionalRevenue.png" width="350"/>
 <br>(Excel chart courtesy of teammate Soh Kiam Boon)
  
- <b>compared against 1st quarter 2021 anomalous revenue rise of 57%</b> called attention. (source: https://www.investopedia.com/how-apple-makes-money-4798689) 
- 
- On further investigation, the cause of this buck trend: China's iPad demand due to home-based learning leading to shortage - which could only be met much later due to the global disruption in the supply chain. (https://asia.nikkei.com/Spotlight/Coronavirus/China-demand-for-e-learning-bites-into-Apple-s-iPad-supply)
+ <b>compared against 1st quarter 2021 anomalous revenue rise of 57%</b> called attention. (source: https://www.investopedia.com/how-apple-makes-money-4798689) China's sudden iPad demand due to home-based learning was identified as a driving cause. (https://asia.nikkei.com/Spotlight/Coronavirus/China-demand-for-e-learning-bites-into-Apple-s-iPad-supply)
  
  <b>Within a quarter, Apple's share of revenue from China increased from 10++% to 19%</b>, while its operating income share was 21% of Apple's total operating income.  This leads to....
- 
+<br><br> 
 #### b) Resulting in clearer problem definition with the Situation-Complication-Potential Questions Summary 
 centred on <b>significant increased revenue from China driven by <i>iPad demand</i></b> in 2020 contrasted sharply against its then <i>small market share of mobile phones:</i>
  <br><img src="https://raw.githubusercontent.com/violats/Viola_Tan/main/images/AppleSCQProblemDefinition.png" width="350"/>
- 
+<br><br> 
 #### c) Further using BCG's suite of tools to drill down into sector
  
  We <b>de-constrained</b> the SCQ questions to create new questions few people thought about.  After evaluating the questions, we decided to analyse the question of <b>"How a user can interract with his/her environment with Apple devices"</b> using a <i>logic tree.</i>
- 
+<br><br> 
 #### d) Logic Tree as a tool to organise team collaboration for evaluating final sector
 <img src="https://raw.githubusercontent.com/violats/Viola_Tan/main/images/Logic Tree.png" width="350"/>
 
 My team debated between e-learning vs healthcare sector as the entry point for the longest time but decided on healthcare for 2 reasons:
 1) Higher potential growth due to healthcare sector projected to grow to USD$1.1 trillion compared to e-learning's USD$34 billion.
 2) More natural progression given Apple Watch's new features launched in Sept 2020 to monitor blood oxygen levels 
-
+<br><br>
 #### Reflection of our team's stand
 Our stand was to <b>"Break into Health Diagnostics Technology Services starting from China"</b> for Apple. (submitted March 2021)
 
