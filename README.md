@@ -87,15 +87,15 @@ Perseverence was required to slowly sieve through mountains of information until
  
  <b>Within a quarter, Apple's share of revenue from China increased from 10++% to 19%</b>, while its operating income share was 21% of Apple's total operating income.  This leads to....
  
-#### b) Situation-Complication-Potential Questions Summary 
+#### b) Resulting in clearer problem definition with the Situation-Complication-Potential Questions Summary 
 centred on <b>significant increased revenue from China driven by <i>iPad demand</i></b> in 2020 contrasted sharply against its then <i>small market share of mobile phones:</i>
  <br><img src="https://raw.githubusercontent.com/violats/Viola_Tan/main/images/AppleSCQProblemDefinition.png" width="350"/>
  
-#### c) Persevering focus on applying BCG's suite of problem definition tools rather than quick decision on e-learning as direction.
+#### c) Further using BCG's suite of tools to drill down into sector
  
  We <b>de-constrained</b> the SCQ questions to create new questions few people thought about.  After evaluating the questions, we decided to analyse the question of <b>"How a user can interract with his/her environment with Apple devices"</b> using a <i>logic tree.</i>
  
-#### d) Logic Tree as a tool to organise Team's collaboration
+#### d) Logic Tree as a tool to organise team collaboration for evaluating final sector
 <img src="https://raw.githubusercontent.com/violats/Viola_Tan/main/images/Logic Tree.png" width="350"/>
 
 My team debated between e-learning vs healthcare sector as the entry point for the longest time but decided on healthcare for 2 reasons:
@@ -103,11 +103,13 @@ My team debated between e-learning vs healthcare sector as the entry point for t
 2) More natural progression given Apple Watch's new features launched in Sept 2020 to monitor blood oxygen levels 
 
 #### Reflection of our team's stand
+Our stand was to <b>"Break into Health Diagnostics Technology Services starting from China"</b> for Apple. (submitted March 2021)
+
 While we follow most teams' recommendations to focus on wearables and services, we were one of three teams to also recommend a market (China) focus with the other 2 teams recommending Western countries and Emerging Markets.
 
 Our stand wouldn't be rational based solely on Excel sheet data (ended 2020) provided but given the major 57% bounceback in the next quarter from another information source, it showed the huge growth potential in China.
 
-In a later BCG-RISE masterclass on 2nd June 2021, "Understanding the Chinese Consumer Post Covid-19" given by an authoritative thought leader of the Chinese market and also BCG Managing Director and Partner, one point she made was that Healthcare is a major selling/pain point for consumers of products and services, across the board, in China. 
+In a later BCG-RISE masterclass on <b>2nd June 2021</b>, "Understanding the Chinese Consumer Post Covid-19" given by an authoritative thought leader of the Chinese market and also BCG Managing Director and Partner, one point she made was that Healthcare is a major selling/pain point for consumers of products and services, across the board, in China. 
 
 ### 2) Storytell Insight with Emotion/Values Skills
 #### in Problem Definition and Recommendation Business Essential Project above (Submitted: March 2021)
