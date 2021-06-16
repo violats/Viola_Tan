@@ -98,6 +98,16 @@ centred on <b>significant increased revenue from China driven by <i>iPad demand<
 #### d) Logic Tree as a tool to organise Team's collaboration
 <img src="https://raw.githubusercontent.com/violats/Viola_Tan/main/images/Logic Tree.png" width="350"/>
 
+My team debated between e-learning vs healthcare sector as the entry point for the longest time but decided on healthcare for 2 reasons:
+1) Higher potential growth due to healthcare sector projected to grow to USD$1.1 trillion compared to e-learning's USD$34 billion.
+2) More natural progression given Apple Watch's new features launched in Sept 2020 to monitor blood oxygen levels 
+
+#### Reflection of our team's stand
+While we follow most teams' recommendations to focus on wearables and services, we were one of three teams to also recommend a market (China) focus with the other 2 teams recommending Western countries and Emerging Markets.
+
+Our stand wouldn't be rational based solely on Excel sheet data (ended 2020) provided but given the major 57% bounceback in the next quarter from another information source, it showed the huge growth potential in China.
+
+In a later BCG-RISE masterclass on 2nd June 2021, "Understanding the Chinese Consumer Post Covid-19" given by an authoritative thought leader of the Chinese market and also BCG Managing Director and Partner, one point she made was that Healthcare is a major selling/pain point for consumers of products and services, across the board, in China. 
 
 ### 2) Storytell Insight with Emotion/Values Skills
 #### in Problem Definition and Recommendation Business Essential Project above (Submitted: March 2021)
