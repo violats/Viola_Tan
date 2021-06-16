@@ -76,7 +76,7 @@ Bachelor of Computer Engineering (Hons) -->
  
  <b><i>In essence, given the myriad market Apple is in through its products and services, what should Apple focus on?</i></b>
 
-#### a)  <i>Focused on important metrics</i> and not side-tracked by research direction
+#### a)  <i>Focused on important metrics</i> and not mountains of information
 Perseverence was required to slowly sieve through mountains of information until Excel sheets' (end 2020) <b>data disparity</b> of China's revenue dropping from 2018 to 2020...
 <br><img src="https://raw.githubusercontent.com/violats/Viola_Tan/main/images/AppleRegionalRevenue.png" width="350"/>
 <br>(Excel chart courtesy of teammate Soh Kiam Boon)
