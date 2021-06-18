@@ -18,7 +18,7 @@
 
 <!-- Add your details -->
 
-I am __Viola Tan__, a Curriculum Designer and Trainer, and an inspiring Business Analyst.
+I am __Viola Tan__, a Curriculum Designer and Trainer, and an aspiring Business Analyst.
 
 
 <!-- Add link to the sections -->
