@@ -131,7 +131,7 @@ Click [here](https://drive.google.com/file/d/183aYGE92DAv2rMe3gPWPJvB3hY5cYjIy/v
 Potential employers and recruiters, if you would like an audio copy of a 30-min User's Needs Interview I conduct, available in both English and Mandarin, please contact me at the LinkedIn link above and I will be happy to provide.
 
 ### 4) PowerBI Visualisation Skills
-You can see the PowerBI Visualisation I created for BCG-Rise's [PowerBI Visualisation Mini-project here.](https://app.powerbi.com/groups/me/reports/6f2df221-5aed-48fe-8f9c-6bfdf8f91e53/ReportSection)
+You can download and play with the PowerBI Visualisation I created for BCG-Rise's [PowerBI Visualisation Mini-project here.](https://raw.githubusercontent.com/violats/Viola_Tan/main/images/ViolaPowerBIMiniProject.pbix) (submitted June 2021.)
 <!-- ### Business Mandarin
 Potential employers and recruiters, if you would like an audio copy of a 30-min User's Needs Interview I conduct, available in both English and Mandarin, please contact me at the LinkedIn contact above and I will be happy to provide. -->
 <!--- [Multi-Attraction Hospitality Destination App - Business Mandarin](#hospitality) <br> --->
