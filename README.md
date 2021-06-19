@@ -113,7 +113,7 @@ While we follow most teams' recommendations to focus on wearables and services, 
 
 Our stand wouldn't be rational based solely on Excel sheet data (ended 2020) provided but given the major 57% bounceback in the next quarter from another information source, it showed the huge growth potential in China.
 
-In a later BCG-RISE masterclass on <b>2nd June 2021</b>, "Understanding the Chinese Consumer Post Covid-19" given by an authoritative thought leader of the Chinese market and also BCG Managing Director and Partner, one point she made was that Healthcare is a major selling/pain point for consumers of products and services, across the board, in China. 
+In a later BCG-RISE masterclass on <b>2nd June 2021</b>, "Understanding the Chinese Consumer Post Covid-19" given by an authoritative BCG Managing Director and Partner expert in China domestic market, one point she made was that <b>Healthcare is a major selling/pain point for consumers of products and services,</b> across the board, in <b>China.</b> 
 
 ### 2) Storytell Insight with Emotion/Values Skills
 #### in Problem Definition and Recommendation Business Essential Project above (Submitted: March 2021)
