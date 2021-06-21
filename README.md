@@ -69,7 +69,7 @@ Bachelor of Computer Engineering (Hons) -->
 ## SKILLS PORTFOLIO -> ongoing Updates
 <!-- Add your details -->
 
-Skills showcased here:
+Skills showcased here: <br>
 [1) Problem Definition Skills](#1) <br>
 [2) Storytell Insight with Emotion/Values Skills](#2) <br>
 [3) Users' Needs Interview and Business Mandarin Skills](#3) <br> 
