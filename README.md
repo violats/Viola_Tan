@@ -68,6 +68,14 @@ Bachelor of Computer Engineering (Hons) -->
 <!-- PROJECTS Section Starts -->
 ## SKILLS PORTFOLIO -> ongoing Updates
 <!-- Add your details -->
+
+Skills showcased here:
+<!-- [1) Problem Definition Skills](#1) <br> -->
+<!--[2) Storytell Insight with Emotion/Values Skills](#2) <br> -->
+<!--[3) Users' Needs Interview and Business Mandarin Skills](#3) <br> --> 
+<!--[4) PowerBI Visualisation Skills](#4) <br> --> 
+<!-- [Featured](#featured) <br>  --> 
+
 ### 1) Problem Definition Skills
 <i>(BCG-Rise's Business Essentials Projects - submitted: March 2021)</i>
 
