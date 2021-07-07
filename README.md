@@ -70,13 +70,41 @@ Bachelor of Computer Engineering (Hons) -->
 <!-- Add your details -->
 
 Skills showcased here: <br>
-[1) Problem Definition Skills](#1) <br>
+[1) Development Life Cycle](#1) <br>
 [2) Storytell Insight with Emotion/Values Skills](#2) <br>
-[3) Users' Needs Interview and Business Mandarin Skills](#3) <br> 
-[4) PowerBI Visualisation Skills](#4) <br> 
+[3) Problem Definition Skills](#3) <br>
+[3) Users' Needs Interview and Business Mandarin Skills](#4) <br> 
+[4) PowerBI Visualisation Skills](#5) <br> 
 5) Statistical Analysis using Python (current mini-project, due in July 2021)
 
-### 1) Problem Definition Skills
+### 1) Development Life Cycle
+Obtained ["BCG RISE DISTINCTION Hackathon Project - top 10 individuals"](https://www.credly.com/badges/3354eaa4-0a60-46dc-8910-75fee55fbbb9)
+
+Project Sponsor: Sentosa<br>
+Purpose: Create a seamless "Planning - Booking - Experience" customer journey across all channels for Sentosa attractions<br><br>
+<b>Developed concept of AI-driven Itinerary Generation app personalised for different target groups/personas</b>
+
+Planned deployment of app in 2 phases/versions:<br><br>
+Phase 1: Data Gathering Version (Incremental feature improvements for popular adoption with data gathering capabilities to train our Artificial Intelligence)<br>
+
+Phase 2: Capable AI Itinerary Generation for different target groups/personas<br><br>
+
+The presentation in class is from the POV of our DIFK (double-income, (have a) fur kid - a dog) persona as we walked through his use case with our app.
+
+
+### 2) Storytell Insights with Emotions/Values Skills (Presentation Skills)
+#### in Problem Definition and Recommendation Business Essential Project above (Submitted: March 2021)
+
+Click [here](https://drive.google.com/file/d/183aYGE92DAv2rMe3gPWPJvB3hY5cYjIy/view) for the video link of how I <b>connected and storytell our recommendation with Apple's vision</b>, bookended in both the introduction and conclusion.
+
+<!--- [Hawker Centre App](#hawker) <br> --->
+
+<!-- [Human-Centred Design project: Hawker Centre App](#Hawker) <br> --->
+#### in Human-Centred Design Project (Submitted: April 2021)
+
+ [Feel free to jump to time 1:40 of this video link](https://drive.google.com/file/d/1xbm5xsVVvDf3cg-A0GCb4KE1OOwqnD5V/view) to see how I Storytell and relate Emotions/values to users' Insights.
+
+### 3) Problem Definition Skills
 <i>(BCG-Rise's Business Essentials Projects - submitted: March 2021)</i>
 
 <b>Project Deliverable:</b> Advise CEO of Apple Inc on Business Strategy <i>(Note: Apple Inc is not a project sponsor.)</i>
@@ -123,22 +151,10 @@ Our stand wouldn't be rational based solely on Excel sheet data (ended 2020) pro
 
 In a later BCG-RISE masterclass on <b>2nd June 2021</b>, "Understanding the Chinese Consumer Post Covid-19" given by an authoritative BCG Managing Director and Partner expert in China domestic market, one point she made was that <b>Healthcare is a major selling/pain point for consumers of products and services,</b> across the board, in <b>China.</b> 
 
-### 2) Storytell Insight with Emotion/Values Skills
-#### in Problem Definition and Recommendation Business Essential Project above (Submitted: March 2021)
-
-Click [here](https://drive.google.com/file/d/183aYGE92DAv2rMe3gPWPJvB3hY5cYjIy/view) for the video link of how I <b>connected and storytell our recommendation with Apple's vision</b>, bookended in both the introduction and conclusion.
-
-<!--- [Hawker Centre App](#hawker) <br> --->
-
-<!-- [Human-Centred Design project: Hawker Centre App](#Hawker) <br> --->
-#### in Human-Centred Design Project (Submitted: April 2021)
-
- [Feel free to jump to time 1:40 of this video link](https://drive.google.com/file/d/1xbm5xsVVvDf3cg-A0GCb4KE1OOwqnD5V/view) to see how I Storytell and relate Emotions/values to users' Insights.
-
-### 3) Users' Needs Interview and Business Mandarin Skills
+### 4) Users' Needs Interview and Business Mandarin Skills
 Potential employers and recruiters, if you would like an audio copy of a 30-min User's Needs Interview I conduct, available in both English and Mandarin, please contact me at the LinkedIn link above and I will be happy to provide.
 
-### 4) PowerBI Visualisation Skills
+### 5) PowerBI Visualisation Skills
 You can download and play with the PowerBI Visualisation I created for BCG-Rise's [PowerBI Visualisation Mini-project here.](https://raw.githubusercontent.com/violats/Viola_Tan/main/images/ViolaPowerBIMiniProject.pbix) (submitted June 2021.)
 <!-- ### Business Mandarin
 Potential employers and recruiters, if you would like an audio copy of a 30-min User's Needs Interview I conduct, available in both English and Mandarin, please contact me at the LinkedIn contact above and I will be happy to provide. -->
