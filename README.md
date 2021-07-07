@@ -82,7 +82,7 @@ Recognised as ["BCG RISE DISTINCTION Hackathon Project - top 10 individuals"](ht
 
 Project Sponsor: Sentosa<br>
 Purpose: Create a seamless "Planning - Booking - Experience" customer journey across all channels for Sentosa attractions<br><br>
-Our Solution: <b>Developed concept of AI-driven Personalised Itinerary Generation for different target groups/demographics App</b>
+Our Solution: <b>Developed concept of an app that is driven by AI for Personalised Itinerary Generation for different target groups/demographics</b>
 
 The presentation in class is from the POV of our DIFK (double-income, (have a) fur kid - a dog) persona as we walked through his use case with Phase 1 of our app.
 
