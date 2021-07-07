@@ -70,7 +70,7 @@ Bachelor of Computer Engineering (Hons) -->
 <!-- Add your details -->
 
 Skills showcased here: <br>
-[1) Development Life Cycle](#1) <br>
+[1) App Development Life Cycle](#1) <br>
 [2) Storytell Insight with Emotion/Values Skills](#2) <br>
 [3) Problem Definition Skills](#3) <br>
 [4) Users' Needs Interview and Business Mandarin Skills](#4) <br> 
