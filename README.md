@@ -73,9 +73,9 @@ Skills showcased here: <br>
 [1) Development Life Cycle](#1) <br>
 [2) Storytell Insight with Emotion/Values Skills](#2) <br>
 [3) Problem Definition Skills](#3) <br>
-[3) Users' Needs Interview and Business Mandarin Skills](#4) <br> 
-[4) PowerBI Visualisation Skills](#5) <br> 
-5) Statistical Analysis using Python (current mini-project, due in July 2021)
+[4) Users' Needs Interview and Business Mandarin Skills](#4) <br> 
+[5) PowerBI Visualisation Skills](#5) <br> 
+6) Statistical Analysis using Python (current mini-project, due in July 2021)
 
 ### 1) App Development Life Cycle
 Obtained ["BCG RISE DISTINCTION Hackathon Project - top 10 individuals"](https://www.credly.com/badges/3354eaa4-0a60-46dc-8910-75fee55fbbb9) (submitted: May 2021)
