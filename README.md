@@ -78,7 +78,7 @@ Skills showcased here: <br>
 6) Statistical Analysis using Python (current mini-project, due in July 2021)
 
 ### 1) App Development Life Cycle
-Obtained ["BCG RISE DISTINCTION Hackathon Project - top 10 individuals"](https://www.credly.com/badges/3354eaa4-0a60-46dc-8910-75fee55fbbb9) (submitted: May 2021)
+Recognised as ["BCG RISE DISTINCTION Hackathon Project - top 10 individuals"](https://www.credly.com/badges/3354eaa4-0a60-46dc-8910-75fee55fbbb9) (submitted: May 2021)
 
 Project Sponsor: Sentosa<br>
 Purpose: Create a seamless "Planning - Booking - Experience" customer journey across all channels for Sentosa attractions<br><br>
