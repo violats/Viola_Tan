@@ -96,7 +96,7 @@ The video presentation below is from the POV of our DIFK (double-income, (have a
  More evidences of how I "Storytell Insight with Emotion/Values" in Skills #2 below.
  
  #### Reception and Reflection
- Our insight of vegetarians usually packing their own food for meals outside is spot-on for Guest Judge, Ms Miranda Adams, Senior Strategic Designer (none of our team-members are vegetarians) so our recommendation of <u>clearly highlighting different diet preferences catered by different restaurants</u> within Sentosa might potentially increase revenue to Sentosa's restaurants' partners.
+ <br><br>Our insight of vegetarians usually packing their own food for meals outside is spot-on for Guest Judge, Ms Miranda Adams, Senior Strategic Designer (none of our team-members are vegetarians) so our recommendation of <u>clearly highlighting different diet preferences catered by different restaurants</u> within Sentosa might potentially increase revenue to Sentosa's restaurants' partners.
  
  "The main differentiator AI can make in an organisation is personalisation of services and information to different customers." (Source: Mr Feng Yuan Liu, former Lead at Data Science & AI division at GovTech, CEO & Cofounder of Basis.AI, BCG-Rise's Live Webinar "How AI is impacting our daily lives, and how to harness it for good", 7th July 2021 (later than our submission date))
  
