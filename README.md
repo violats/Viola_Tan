@@ -166,6 +166,10 @@ Potential employers and recruiters, if you would like an audio copy of a 30-min 
 
 ### 5) PowerBI Visualisation Skills
 You can download and play with the PowerBI Visualisation I created for BCG-Rise's [PowerBI Visualisation Mini-project here.](https://raw.githubusercontent.com/violats/Viola_Tan/main/images/ViolaPowerBIMiniProject.pbix) (submitted June 2021.)
+
+### 6) Statistical Analysis Using Python
+You can download and look at the code I created for BCG-Rise's [Statistical Analysis Using Python.](https://raw.githubusercontent.com/violats/Viola_Tan/main/images/ViolaPowerBIMiniProject.pbix) (submitted June 2021.)
+<!-- ### Business Mandarin
 <!-- ### Business Mandarin
 Potential employers and recruiters, if you would like an audio copy of a 30-min User's Needs Interview I conduct, available in both English and Mandarin, please contact me at the LinkedIn contact above and I will be happy to provide. -->
 <!--- [Multi-Attraction Hospitality Destination App - Business Mandarin](#hospitality) <br> --->
