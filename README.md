@@ -75,7 +75,7 @@ Skills showcased here: <br>
 [3) Problem Definition Skills](#3) <br>
 [4) Users' Needs Interview and Business Mandarin Skills](#4) <br> 
 [5) PowerBI Visualisation Skills](#5) <br> 
-6) Statistical Analysis using Python (current mini-project, due in July 2021)
+[6) Statistical Analysis using Python](#6) <br>
 
 ### 1) App Development Life Cycle
 Recognised as ["BCG RISE DISTINCTION Hackathon Project - top 10 individuals"](https://www.credly.com/badges/3354eaa4-0a60-46dc-8910-75fee55fbbb9) (submitted: May 2021)
@@ -168,7 +168,8 @@ Potential employers and recruiters, if you would like an audio copy of a 30-min 
 You can download and play with the PowerBI Visualisation I created for BCG-Rise's [PowerBI Visualisation Mini-project here.](https://raw.githubusercontent.com/violats/Viola_Tan/main/images/ViolaPowerBIMiniProject.pbix) (submitted June 2021.)
 
 ### 6) Statistical Analysis Using Python
-You can download and look at the code I created for BCG-Rise's [Statistical Analysis Using Python.](https://raw.githubusercontent.com/violats/Viola_Tan/main/images/ViolaPowerBIMiniProject.pbix) (submitted June 2021.)
+You can download and look at the code I created for BCG-Rise's [Statistical Analysis Using Python.](https://raw.githubusercontent.com/violats/Viola_Tan/main/images/Python_Statistical_Analysis_viola.zip) (submitted July 2021.)
+
 <!-- ### Business Mandarin
 <!-- ### Business Mandarin
 Potential employers and recruiters, if you would like an audio copy of a 30-min User's Needs Interview I conduct, available in both English and Mandarin, please contact me at the LinkedIn contact above and I will be happy to provide. -->
